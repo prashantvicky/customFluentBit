@@ -1,2 +1,2 @@
-{"log":"2018-Jun-29+09:43:38.761 [csp 7902 debug] [1/0/1 \u003ccspctrl:0\u003e spctrl_events.c:6917] [software internal system syslog] 1: cspctrl_event_check_link_settle: called 1\r\n","stream":"stderr","time":"2018-06-29T09:43:38.763521895Z"}
+2018-Jun-29+09:43:38.761 [csp 7902 debug] [1/0/1 \u003ccspctrl:0\u003e spctrl_events.c:6917] [software internal system syslog] 1: cspctrl_event_check_link_settle: called 1\r\n","stream":"stderr","time":"2018-06-29T09:43:38.763521895Z
 
